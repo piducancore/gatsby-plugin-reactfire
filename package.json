@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-reactfire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "`FirebaseAppProvider` component from `reactfire` as a Gatsby plugin.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "@piducancore",
   "license": "0BSD",
   "peerDependencies": {
-    "firebase": "^8.2.0",
-    "reactfire": "^3.0.0-rc.0"
+    "firebase": "^9.6.5",
+    "reactfire": "^4.2.1"
   }
 }
